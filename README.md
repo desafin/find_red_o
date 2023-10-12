@@ -18,10 +18,12 @@
 
 
 ## 개발환경
+- C++
 - python
 - pycharm IDE
 - Anaconda
 - OPENCV
+- Visual Studio
 
 
 ## 결과 이미지
